@@ -1,0 +1,4 @@
+@EndUserText.label: 'Exponer CDS'
+define service ZCQL_DS_ART {
+  expose ZCQL_CDS_ART;
+}
